@@ -1,0 +1,11 @@
+accounts:
+  message: "Welcome to Accounts Microservices QA Environment"
+  contactDetails:
+    name: "Aniket Gupta - QA Lead"
+    email: "aniket@gmail.com"
+  onCallSupport:
+    - 9876543210
+    - 0147258369
+
+build:
+  version: 1.0

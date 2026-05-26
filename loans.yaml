@@ -1,0 +1,11 @@
+accounts:
+  message: "Welcome to Loans Microservices Default Environment"
+  contactDetails:
+    name: "Anuj Tiwari"
+    email: "anuj@gmail.com"
+  onCallSupport:
+    - 4561237890
+    - 0147258369
+
+build:
+  version: 1.0

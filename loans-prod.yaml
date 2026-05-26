@@ -1,0 +1,11 @@
+accounts:
+  message: "Welcome to Loans Microservices Product Environment"
+  contactDetails:
+    name: "Somil Gupta - Product Owner"
+    email: "somil@gmail.com"
+  onCallSupport:
+    - 9876543210
+    - 8527410963
+
+build:
+  version: 1.3

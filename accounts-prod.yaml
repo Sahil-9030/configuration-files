@@ -1,5 +1,5 @@
 accounts:
-  message: "Welcome to Accounts Microservices Product Environment"
+  message: "Welcome to Accounts Microservices Product 'This is the change' Environment"
   contactDetails:
     name: "Vashu Gupta - Product Owner"
     email: "{cipher}1062e673c2b864ec2c218616c552f40b76a6b76d2e8be672c21f44c9a1590026"

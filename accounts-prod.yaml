@@ -2,7 +2,7 @@ accounts:
   message: "Welcome to Accounts Microservices webhook (api updated again)"
   contactDetails:
     name: "Hanshit Gupta & Vashu Gupta ('This name is also a change in config') - Product Owner"
-    email: "{cipher}1062e673c2b864ec2c218616c552f40b76a6b76d2e8be672c21f44c9a1590026"
+    email: "sahilgupta0987@gmail.com"
   onCallSupport:
     - 9876543210
     - 8527410963
